@@ -1,2 +1,2 @@
-# Bayesian-RNN
-TensorFlow implementation of Bayes-by-Backprop algorithm from "Bayesian Recurrent Neural Networks" paper
+# Bayes-by-Backprop
+TensorFlow implementation of Bayes-by-Backprop algorithm from "Weight Uncertainty in Neural Networks" paper
